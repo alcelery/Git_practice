@@ -13,7 +13,7 @@
 | Группа           | РПО 1/1                       |
 | Дисциплина       | Git и GitHub                            |
 | Дата выполнения  | [17.06.2026]                            |
-| Ссылка на GitHub | https://github.com/alcelery/|
+| Ссылка на GitHub | https://github.com/alcelery/kontrol_git_rpo|
 
 ## Цель работы
 
